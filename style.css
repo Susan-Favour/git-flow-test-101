@@ -1,0 +1,15 @@
+#container{
+    float: left;
+    display: block;
+    padding: 30px;
+    font-size: 20px;
+    }
+    #navigation-bar{
+       display: flex;
+    }
+    .press{
+       border-radius: 100px;
+       color: white;
+       background-color: purple;
+    }
+    
